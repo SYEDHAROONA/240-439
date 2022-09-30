@@ -14,6 +14,6 @@ class testcaesarcipher(unittest.TestCase):
         self.assertEqual(result, 'okffng-QwvB')
 
     def test_give_abcdefghijklmnopqrstuvwxyz_step_26_return_abcdefghijklmnopqrstuvwxyz(self):
-        result = caesar_cipher('abcdefghijklmnopqrstuvwxyz')
+        result = caesarCipher('abcdefghijklmnopqrstuvwxyz')
         self.assertEqual(result, 'abcdefghijklmnopqrstuvwxyz')
     

@@ -1,4 +1,4 @@
-def alternating_characters(text: str) -> int:
+def alternatingCharacters(text: str) -> int:
     remove_counter = 0
     index = 0
     tmp_text = text[:]
