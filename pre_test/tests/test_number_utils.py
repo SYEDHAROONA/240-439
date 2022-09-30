@@ -8,10 +8,10 @@ class PrimeListTest(unittest.TestCase):
         is_prime = is_prime_list(prime_list)
         self.assertTrue(is_prime)
     
-    def test_give_4_7_11_is_prime(self):
-        prime_list = [4, 7, 11]
-        is_prime = is_prime_list(prime_list)
-        self.assertTrue(is_prime)
+    #def test_give_4_7_11_is_prime(self):
+     #   prime_list = [4, 7, 11]
+      #  is_prime = is_prime_list(prime_list)
+       # self.assertTrue(is_prime)
     
     def test_give_79_83_89_is_prime(self):
         prime_list = [79, 83, 89]

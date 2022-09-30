@@ -1,0 +1,28 @@
+PS C:\Users\Syedharoon\Desktop\240-439> py -m unittest -v tests/test_super_fizzbuzz.py
+test_give_10000_return_buzzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_108_return_fizzfizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_15_return_fizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_175_return_buzzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_1_return_nofizzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_225_return_fizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_2260_return_buzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_25_return_fizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_2_return_nofizzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_3375_return_fizzfizzbuzzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_3_return_fizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_468_return_fizzfizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_5000_return_buzzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_5999_return_nofizzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_5_return_fizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_6075_return_fizzfizzbuzzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_6690_return_fizzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_6_return_fizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_9000_return_fizzbuzz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_9366_return_fizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_9999_return_fizzfizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+test_give_9_return_fizz (tests.test_super_fizzbuzz.TestSuperFizzBuzz) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.010s
+
+OK
